@@ -49,7 +49,7 @@ Additionally, I contributed to:
 
 ---
 
-## 🗂️ Project Structure Overview
+## Project Structure Overview
 
 ```
 ├── data/
@@ -69,17 +69,17 @@ Additionally, I contributed to:
 
 ---
 
-## 📎 Supporting Media & Documentation
+## Supporting Media & Documentation
 
-- 🎨 **Figma Prototype** – [View the UI Prototype](https://www.figma.com/proto/r0Tx8ARbPLCh8U8sTVIErH/MAD-hi-fi-prototype?node-id=2002-362&t=fetugRO0q12XJyfM-1)
-- 📄 **Project Proposal** – [Read the Proposal on Google Docs](https://docs.google.com/document/d/166Ak3lWIN5_0YhMQozIYFEayZ9GWFfbsJFwN14zTork/edit?usp=sharing)
-- 🧾 **Final Report** – [View the Final Report on Google Docs](https://docs.google.com/document/d/17g03RTRBUBJf28ewV6zraVqrTs5BwE7nGkVNHteXadI/edit?usp=sharing)
+- **Figma Prototype** – [View the UI Prototype](https://www.figma.com/proto/r0Tx8ARbPLCh8U8sTVIErH/MAD-hi-fi-prototype?node-id=2002-362&t=fetugRO0q12XJyfM-1)
+- **Project Proposal** – [Read the Proposal on Google Docs](https://docs.google.com/document/d/166Ak3lWIN5_0YhMQozIYFEayZ9GWFfbsJFwN14zTork/edit?usp=sharing)
+- **Final Report** – [View the Final Report on Google Docs](https://docs.google.com/document/d/17g03RTRBUBJf28ewV6zraVqrTs5BwE7nGkVNHteXadI/edit?usp=sharing)
 
 > _These resources highlight the planning, design thinking, and final evaluation that went into the OnlyNotes project._
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 - Clean architecture using **MVVM** in a mobile context
 - Firebase integration for real-time updates and secure data handling
@@ -89,13 +89,13 @@ Additionally, I contributed to:
 
 ---
 
-## 🔐 Note
+## Note
 
 This is a **case study repository**. The original codebase is private under the [INF2007 course](https://github.com/inf2007/inf2007-team23-2024). If you're interested in learning more, feel free to reach out or explore my related public projects.
 
 ---
 
-## ✉️ Let’s Connect
+## Let’s Connect
 
 Want to learn more about OnlyNotes or collaborate on similar mobile projects?  
 Feel free to [reach out](mailto:eliaslim316@gmail.com) or check out more of my work on [GitHub](https://github.com/elim316).
