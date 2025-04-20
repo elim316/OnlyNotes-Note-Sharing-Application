@@ -1,6 +1,11 @@
 # OnlyNotes – Android Note-Sharing App
 
-![Built for Mobile App Dev](https://img.shields.io/badge/Built%20for-Mobile%20App%20Dev-blue)
+![Project Type](https://img.shields.io/badge/Project-Mobile%20App%20Dev-blue)
+![Built With](https://img.shields.io/badge/Built%20With-Kotlin-yellow)
+![UI Framework](https://img.shields.io/badge/UI-Jetpack%20Compose-purple)
+![Backend](https://img.shields.io/badge/Backend-Firebase-orange)
+![Architecture](https://img.shields.io/badge/Architecture-MVVM-brightgreen)
+![Platform](https://img.shields.io/badge/Platform-Android-lightgrey)
 
 **OnlyNotes** is an Android application designed to help students collaborate and share study notes more effectively. The app supports creating and editing notes, joining study groups based on location, and participating in real-time discussions.
 
